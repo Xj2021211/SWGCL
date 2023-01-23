@@ -1,3 +1,3 @@
 # WOGCL
 
-# This is the repo for WOGCL.
+Data and code for WOGCL.
