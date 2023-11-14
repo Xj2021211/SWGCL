@@ -1,3 +1,3 @@
-# WOGCL
+# SWGCL
 
-Data and code for WOGCL.
+Data and code for SWGCL.
